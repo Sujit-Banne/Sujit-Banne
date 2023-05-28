@@ -9,6 +9,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sujit-Banne&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujit-Banne&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+##Leetcode 
+![LeetCode Stats](https://leetcode.card.workers.dev/sujitbanne13?ext=activity)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
