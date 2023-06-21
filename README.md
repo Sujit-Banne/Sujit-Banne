@@ -10,10 +10,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujit-Banne&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-## GeeksForGeeks
-
-[![](https://geeks-for-geeks-stats-api-napiyo.vercel.app/?userName=sujitbanne13)](https://auth.geeksforgeeks.org/user/sujitbanne13/practice)
-
 
 
 ---
